@@ -1,0 +1,122 @@
+body{
+    background-color:black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    background-color: grey; 
+    display: flex;  
+    width:75%;
+    justify-content: center; 
+    align-items: center;
+    padding:0px;
+    margin-left:12.5%;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+
+.items {
+    font-family: sans-serif; 	
+    font-weight: bold;	
+    color: black; 	
+    font-size: 22px;	
+    padding:20px;
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color:white;
+    padding: 30px;
+    margin:10px;
+    width: auto;
+    height: auto;
+    text-decoration: none;
+}
+    
+
+.items:hover {
+    background-color: gray;
+    opacity: 0.5;
+}
+
+p {
+    font-size: 23px;
+    font-family: sans-serif;
+    margin:20px;
+    padding:10px;
+}
+
+h1 {
+    margin-left:10px;
+    font-family: sans-serif;
+    padding:10px;
+}
+
+#education_div {
+    border: 1px solid black;
+    width:75%;
+    display:flex;
+    background-color: white;
+    margin:auto;
+    border-radius: 25px;
+}
+
+#about_me_div {
+    border: 1px solid black;
+    width:75%;
+    display:flex;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 12.5%;
+    background-color:white;
+    border-radius: 25px;
+}
+
+#future_interest_div {
+    border: 1px solid black;
+    width:75%;
+    display:flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 12.5%;
+    background-color:white;
+    border-radius: 25px;
+}
+
+#postsecondary_div {
+    border: 1px solid black;
+    width:75%;
+    display:flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 12.5%;
+    background-color:white;
+    border-radius: 25px;
+}
+
+#contact_div {
+    border: 1px solid black;
+    width:75%;
+    display:flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 12.5%;
+    background-color:white;
+    border-radius: 25px;
+}
+
+img {
+    margin: 18px;
+}
+
+#hello_gif_2 {
+    margin-top: 20px;
+    height: 600px;;
+    border-radius:20px;
+    margin-left:12.5%;
+}
+
+
+
+
